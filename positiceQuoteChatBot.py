@@ -15,8 +15,7 @@ niceCompBank = [
     'Good Luck!, Remember this is a game about teamwork and positivity',
     'Wow! Nice one:)',
     'I have to agree with that,  GG ALL!',
-    'Have a great day all!',
-    'Fuck my twat with a pencil'
+    'Have a great day all!'
 ]
 
 positiveQuoteBank = []
