@@ -6,18 +6,6 @@ import ExtractQuotes
 import sqlite3
 from sqlite3 import Error
 
-codeBank = [
-    ';Node.Current"{}";OWsql.exe>>"FPS.projectile.aimfile[New].Accuracy(result)Σ->(9{}/100)"=init;',
-    ';Node.Next"{}";OWsql.exe>>"FPS.projectile.aimfile[New].Accuracy(result)Σ->(9{}/100)"=init;',
-    ';delNode"{}"instance{}=init;'
-]
-niceCompBank = [
-    'Good Luck!, Remember this is a game about teamwork and positivity',
-    'Wow! Nice one:)',
-    'I have to agree with that,  GG ALL!',
-    'Have a great day all!'
-]
-
 positiveQuoteBank = []
 
 def main():
